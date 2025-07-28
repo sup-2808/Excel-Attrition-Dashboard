@@ -1,6 +1,6 @@
 # Excel-Attrition-Dashboard
 
-### 1. Create an interactive Employee Attrition Dashboard to help HR teams understand and reduce attrition.
+### 1. Create an interactive Employee Attrition Dashboard [HR-Employee-Attrition.csv.xlsx] to help HR teams understand and reduce attrition.
 ### 2. Analyze various employee-related metrics (department, education, gender, income, overtime, etc.) to derive meaningful insights and support data-driven HR decisions.
 
 # Purpose of HR Attrition Analytics:
